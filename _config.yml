@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               David J. Luitz
+tagline:             'Condensed Matter Theory'
+description:         "David J. Luitz's research website"
+url:                 http://dluitz.github.io
+baseurl:             ''
+
+# About/contact
+author:
+  name:              David J. Luitz
+  url:               http://dluitz.github.io
+  email:             dluitz@illinois.edu
+
+# Custom vars
+version:             1.0.0
