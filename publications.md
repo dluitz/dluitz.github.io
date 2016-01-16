@@ -44,7 +44,7 @@ PhysRev. B 91, 081103 (2015), [arXiv:1411.0660](http://arxiv.org/abs/1411.0660)
 2014
 ----
 
-+  **D. J. Luitz**, X. Plat, N. Laflorencie, and F. Alet
++  **D. J. Luitz**, X. Plat, N. Laflorencie, and F. Alet  
 *“Improving entanglement and thermodynamic Rényi entropy measurements in quantum Monte Carlo”*   
 Phys. Rev. B 90, 125105 (2014), [arXiv:1405.7391](http://arxiv.org/abs/1405.7391)
 
