@@ -54,7 +54,7 @@ J. Stat. Mech. 2014, P08007 (2014), [arXiv:1404.3717](http://arxiv.org/abs/1404.
 
 +  **D. J. Luitz**, F. Alet, and N. Laflorencie  
 *“Shannon-Rényi entropies and participation spectra across three-dimensional O(3) criticality”*  
-Phys. Rev. B 89, 165106 (2014), [arXiv:1402.4813](http://arxiv.org/abs/1402.3813)
+Phys. Rev. B 89, 165106 (2014), [arXiv:1402.4813](http://arxiv.org/abs/1402.4813)
 
 +  **D. J. Luitz**, F. Alet, and N. Laflorencie   
 *“Universal Behavior beyond Multifractality in Quantum Many-Body Systems”*  
