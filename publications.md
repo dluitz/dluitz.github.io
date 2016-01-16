@@ -75,8 +75,7 @@ Phys. Rev. B 88,075110 (2013), [arXiv:1302.0856](http://arxiv.org/abs/1302.0856)
 *“Understanding the Josephson Current through a Kondo-Correlated Quantum Dot"*   
 Phys. Rev. Lett. 108, 227001 (2012), [arXiv:1201.5117](http://arxiv.org/abs/1201.5117)
 
-+  F. Goth, J. Werner, M. Bercx, **D. J. Luitz**, M. Raczkowski, M. Hohenadler, T. C. Lang, Z. Y. Meng, S. Wessel, A. Mu-
-ramatsu, F. F. Assaad, and W. Hanke   
++  F. Goth, J. Werner, M. Bercx, **D. J. Luitz**, M. Raczkowski, M. Hohenadler, T. C. Lang, Z. Y. Meng, S. Wessel, A. Muramatsu, F. F. Assaad, and W. Hanke   
 *“Numerical simulations of correlated electron systems”*  
 High Performance Computing in Science and Engineering (Leibniz Rechenzentrum Garching, 2012)
 
