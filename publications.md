@@ -38,7 +38,7 @@ Phys. Rev. Lett. 114, 155301 (2015), [arXiv:1412.5595](http://arxiv.org/abs/1412
 
 +  **D. J. Luitz**, N. Laflorencie, and F. Alet  
 *“Many-body localization edge in the random-field Heisenberg chain”*   
-PhysRev. B 91, 081103 (2015), [arXiv:1411.0660](http://arxiv.org/abs/1411.0660)
+Phys. Rev. B 91, 081103 (2015), [arXiv:1411.0660](http://arxiv.org/abs/1411.0660)
 
 
 2014
