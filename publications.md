@@ -21,7 +21,7 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 
 +  N. Laflorencie, **D. J. Luitz**, and F. Alet   
 *“Spin-wave approach for entanglement entropies of the J1 − J2 Heisenberg antiferromagnet on the square lattice”*   
-Phys. Rev. B 92, 115126 (2015), [arXiv:1506.03703](http://arxiv.org/abs/1506.03703).
+Phys. Rev. B 92, 115126 (2015), [arXiv:1506.03703](http://arxiv.org/abs/1506.03703)
 
 +   **D. J. Luitz**, X. Plat, F. Alet, and N. Laflorencie   
 *“Universal logarithmic corrections to entanglement entropies in two dimensions with spontaneously broken continuous symmetries”*  
@@ -65,7 +65,7 @@ Phys. Rev. Lett. 112, 057203 (2014), [arXiv:1308.1916](http://arxiv.org/abs/1308
 
 + F. Goth, **D. J. Luitz**, and F. F. Assaad   
 *“Magnetic impurities in the Kane-Mele model”*   
-Phys. Rev. B 88,075110 (2013), [arXiv:1302.0856](http://arxiv.org/abs/1302.0856)
+Phys. Rev. B 88, 075110 (2013), [arXiv:1302.0856](http://arxiv.org/abs/1302.0856)
 
 
 2012
