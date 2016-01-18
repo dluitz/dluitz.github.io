@@ -10,7 +10,7 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 
 + **D. J. Luitz**   
 *"Long tail distributions near the many body localization transition"*   
-[arXiv:1601.0xxxx](http://arxiv.org/abs/1601.0xxxx) (2016) (submitted to arXiv)
+[arXiv:1601.04058](http://arxiv.org/abs/1601.04058) (2016) 
 
 
 2015
