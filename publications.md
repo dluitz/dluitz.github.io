@@ -17,7 +17,7 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 ----
 + **D. J. Luitz**, N. Laflorencie, and F. Alet   
 *“Extended slow dynamical regime prefiguring the many-body localization transition”*   
-[arXiv:1511.05141](http://arxiv.org/abs/1511.05141) (2015)
+Phys. Rev. B in press [Rapid Communication], [arXiv:1511.05141](http://arxiv.org/abs/1511.05141) (2015)
 
 +  N. Laflorencie, **D. J. Luitz**, and F. Alet   
 *“Spin-wave approach for entanglement entropies of the J1 − J2 Heisenberg antiferromagnet on the square lattice”*   
@@ -29,7 +29,7 @@ Phys. Rev. B 91, 155145 (2015), [arXiv:1503.01094](http://arxiv.org/abs/1503.010
 
 +   R. Delagrange, **D. J. Luitz**, R. Weil, A. Kasumov, V. Meden, H. Bouchiat, and R. Deblock  
 *“Manipulating the magnetic state of a carbon nanotube Josephson junction using the superconducting phase”*  
-Phys. Rev. B 92, 241401 (2015), [arXiv:1501.03357](http://arxiv.org/abs/1501.03357)
+Phys. Rev. B 92, 241401 (2015) [Rapid Communication, Editors' Suggestion], [arXiv:1501.03357](http://arxiv.org/abs/1501.03357)
 
 
 + J. P. Álvarez Zúñiga, **D. J. Luitz**, G. Lemarié, and N. Laflorencie   
@@ -38,7 +38,7 @@ Phys. Rev. Lett. 114, 155301 (2015), [arXiv:1412.5595](http://arxiv.org/abs/1412
 
 +  **D. J. Luitz**, N. Laflorencie, and F. Alet  
 *“Many-body localization edge in the random-field Heisenberg chain”*   
-Phys. Rev. B 91, 081103 (2015), [arXiv:1411.0660](http://arxiv.org/abs/1411.0660)
+Phys. Rev. B 91, 081103 (2015) [Rapid Communication, Editors' Suggestion], [arXiv:1411.0660](http://arxiv.org/abs/1411.0660)
 
 
 2014
