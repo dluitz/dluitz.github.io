@@ -16,7 +16,7 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 2015
 ----
 + **D. J. Luitz**, N. Laflorencie, and F. Alet   
-*"Extended slow dynamical regime close to the many-body localization transition"*
+*"Extended slow dynamical regime close to the many-body localization transition"*   
 Phys. Rev. B 93, 060201(R) [Rapid Communication], [arXiv:1511.05141](http://arxiv.org/abs/1511.05141) (2015)
 
 +  N. Laflorencie, **D. J. Luitz**, and F. Alet   
