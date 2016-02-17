@@ -12,12 +12,12 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 *"Long tail distributions near the many body localization transition"*   
 [arXiv:1601.04058](http://arxiv.org/abs/1601.04058) (2016) 
 
++ **D. J. Luitz**, N. Laflorencie, and F. Alet   
+*"Extended slow dynamical regime close to the many-body localization transition"*   
+Phys. Rev. B 93, 060201(R) (2016) [Rapid Communication], [arXiv:1511.05141](http://arxiv.org/abs/1511.05141)
 
 2015
 ----
-+ **D. J. Luitz**, N. Laflorencie, and F. Alet   
-*"Extended slow dynamical regime close to the many-body localization transition"*   
-Phys. Rev. B 93, 060201(R) [Rapid Communication], [arXiv:1511.05141](http://arxiv.org/abs/1511.05141) (2015)
 
 +  N. Laflorencie, **D. J. Luitz**, and F. Alet   
 *“Spin-wave approach for entanglement entropies of the J1 − J2 Heisenberg antiferromagnet on the square lattice”*   
