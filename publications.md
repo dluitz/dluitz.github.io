@@ -10,7 +10,7 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 
 + X. Yu, **D. J. Luitz** and B. K Clark  
 *"Bimodal entanglement entropy distribution in the many-body localization transition"*  
-Submitted to arxiv   
+[arXiv:1606.01260](http://arxiv.org/abs/1606.01260)
 
 + **D. J. Luitz**   
 *"Long tail distributions near the many body localization transition"*   
