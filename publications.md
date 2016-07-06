@@ -8,6 +8,10 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 2016
 ----
 
++ **D. J. Luitz** and Y. Bar Lev  
+*"Anomalous thermalization in ergodic systems"*  
+[arXiv:1607.01012](http://arxiv.org/abs/1607.01012)  
+
 + X. Yu, **D. J. Luitz** and B. K Clark  
 *"Bimodal entanglement entropy distribution in the many-body localization transition"*  
 [arXiv:1606.01260](http://arxiv.org/abs/1606.01260)
