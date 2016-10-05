@@ -13,6 +13,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 + **D. J. Luitz** and Y. Bar Lev  
 *"Anomalous thermalization in ergodic systems"*  
 [arXiv:1607.01012](http://arxiv.org/abs/1607.01012)  
+Accepted in Phys. Rev. Lett. 
 
 + X. Yu, **D. J. Luitz** and B. K Clark  
 *"Bimodal entanglement entropy distribution in the many-body localization transition"*  
