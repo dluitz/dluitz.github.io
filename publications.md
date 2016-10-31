@@ -11,6 +11,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 ----
 
 + **D. J. Luitz** and Y. Bar Lev  
+*"The Ergodic Side of the Many-Body Localization Transition"*   
+[arXiv:1610.08993](http://arxiv.org/abs/1610.08993)  
+
++ **D. J. Luitz** and Y. Bar Lev  
 *"Anomalous thermalization in ergodic systems"*  
 Phys. Rev. Lett. **117**, 170404 (2016), [arXiv:1607.01012](http://arxiv.org/abs/1607.01012)  
 
