@@ -20,7 +20,7 @@ Phys. Rev. Lett. **117**, 170404 (2016), [arXiv:1607.01012](http://arxiv.org/abs
 
 + X. Yu, **D. J. Luitz** and B. K Clark  
 *"Bimodal entanglement entropy distribution in the many-body localization transition"*  
-[arXiv:1606.01260](http://arxiv.org/abs/1606.01260)
+Phys. Rev. B **94**, 184202 (2016), [arXiv:1606.01260](http://arxiv.org/abs/1606.01260)
 
 + **D. J. Luitz**   
 *"Long tail distributions near the many body localization transition"*   
