@@ -19,7 +19,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 Phys. Rev. Lett. **117**, 170404 (2016), [arXiv:1607.01012](http://arxiv.org/abs/1607.01012)  
 
 + X. Yu, **D. J. Luitz** and B. K Clark  
-*"Bimodal entanglement entropy distribution in the many-body localization transition"*  
+*"Bimodal entanglement entropy distribution in the many-body localization transition"*   
 Phys. Rev. B **94**, 184202 (2016), [arXiv:1606.01260](http://arxiv.org/abs/1606.01260)
 
 + **D. J. Luitz**   
