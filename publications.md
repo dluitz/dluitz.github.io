@@ -10,6 +10,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2016
 ----
 
++ **D. J. Luitz** and N. Laflorencie   
+*"Quantum Monte Carlo detection of SU(2) symmetry breaking in the participation entropies of line subsystems"*   
+[arXiv:1612.06338](https://arxiv.org/abs/1612.06338)  
+
 + **D. J. Luitz** and Y. Bar Lev  
 *"The Ergodic Side of the Many-Body Localization Transition"*   
 [arXiv:1610.08993](http://arxiv.org/abs/1610.08993)  
