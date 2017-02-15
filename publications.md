@@ -9,8 +9,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2017
 ----
 
-+ **D. J. Luitz** and Y. Bar Lev
-*"Information propagation in isolated quantum systems"*
++ **D. J. Luitz** and Y. Bar Lev  
+*"Information propagation in isolated quantum systems"*  
 [arXiv:1702.03929](https://arxiv.org/abs/1702.03929)  
 
 2016
