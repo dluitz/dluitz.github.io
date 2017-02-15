@@ -6,6 +6,12 @@ title: Publications
 Preprints of all my articles are also listed on my [author's profile](http://arxiv.org/a/luitz_d_1) on arxiv.org. You can also find them on [ADS](https://ui.adsabs.harvard.edu/#search/q=%22Luitz%2C+David+J%22&sort=citation_count+desc) or [google scholar](https://scholar.google.com/citations?user=8CCqRZYAAAAJ&hl=en&oi=ao).   
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
+2017
+----
+
++ **D. J. Luitz** and Y. Bar Lev
+*"Information propagation in isolated quantum systems"*
+[arXiv:1702.03929](https://arxiv.org/abs/1702.03929)  
 
 2016
 ----

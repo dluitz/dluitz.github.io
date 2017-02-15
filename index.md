@@ -9,7 +9,9 @@ Welcome!
 =====================
 
 I am a condensed matter theorist working on numerical simulations of strongly
-correlated many particle systems as a *Gordon and Betty Moore Postdoctoral Fellow* at the 
+correlated many particle systems as a European Union *Marie Skłodowska Curie Fellow* (starting in March 2017) 
+at [Technische Universität München](http://www.ph.tum.de) in the group of [Frank Pollmann](https://www.professoren.tum.de/en/pollmann-frank/).
+Before, I conducted my research as a *Gordon and Betty Moore Postdoctoral Fellow* at the 
 [University of Illinois at Urbana-Champaign](http://icmt.illinois.edu) in the group of 
 [Eduardo Fradkin](https://physics.illinois.edu/people/profile.asp?efradkin). Until September 2015, I was a
 a postdoc with [Fabien Alet](http://www.lpt.ups-tlse.fr/spip.php?article20&lang=fr) and 
