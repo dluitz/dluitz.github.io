@@ -18,7 +18,9 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 + T. Zhou and **D. J. Luitz**  
 *"Operator entanglement entropy of the time evolution operator in chaotic systems"*   
 [arXiv:1612.07327](https://arxiv.org/abs/1612.07327)  
-Accepted for publication in *Physical Review B*  
+Accepted for publication in *Physical Review B* [Editor's Suggestion]
+
+ 
 
 + **D. J. Luitz** and N. Laflorencie   
 *"Quantum Monte Carlo detection of SU(2) symmetry breaking in the participation entropies of line subsystems"*   
