@@ -13,14 +13,13 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 *"Information propagation in isolated quantum systems"*  
 [arXiv:1702.03929](https://arxiv.org/abs/1702.03929)  
 
-2016
-----
 + T. Zhou and **D. J. Luitz**  
 *"Operator entanglement entropy of the time evolution operator in chaotic systems"*   
-[arXiv:1612.07327](https://arxiv.org/abs/1612.07327)  
-Accepted for publication in *Physical Review B* [Editor's Suggestion]
+*Phys. Rev. B* **95**, 094206 (2017) [Editor's Suggestion], [arXiv:1612.07327](https://arxiv.org/abs/1612.07327)  
 
- 
+
+2016
+----
 
 + **D. J. Luitz** and N. Laflorencie   
 *"Quantum Monte Carlo detection of SU(2) symmetry breaking in the participation entropies of line subsystems"*   
