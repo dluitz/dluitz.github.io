@@ -9,6 +9,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2017
 ----
 
++ **D. J. Luitz** and Y. Bar Lev  
+*"The Ergodic Side of the Many-Body Localization Transition"*   
+[*Annalen der Physik* 2017, 1600350](http://onlinelibrary.wiley.com/doi/10.1002/andp.201600350/full), [arXiv:1610.08993](http://arxiv.org/abs/1610.08993)   
+Invited review article.
+
 + **D. J. Luitz** and N. Laflorencie   
 *"Quantum Monte Carlo detection of SU(2) symmetry breaking in the participation entropies of line subsystems"*   
 [*SciPost Phys.* **2**, 011 (2017)](https://scipost.org/10.21468/SciPostPhys.2.2.011), [arXiv:1612.06338](https://arxiv.org/abs/1612.06338)  
@@ -24,12 +29,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2016
 ----
-
-+ **D. J. Luitz** and Y. Bar Lev  
-*"The Ergodic Side of the Many-Body Localization Transition"*   
-[arXiv:1610.08993](http://arxiv.org/abs/1610.08993)   
-Review article, Annalen der Physik, In press.
-
 
 + **D. J. Luitz** and Y. Bar Lev  
 *"Anomalous thermalization in ergodic systems"*  
