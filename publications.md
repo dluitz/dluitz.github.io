@@ -9,6 +9,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2017
 ----
 
++ **D. J. Luitz**, F. Huveneers and W. de Roeck  
+*"How a small quantum bath can thermalize long localized chains"*   
+[arXiv:1705.10807](https://arxiv.org/abs/1705.10807)   
+
 + **D. J. Luitz** and Y. Bar Lev  
 *"The Ergodic Side of the Many-Body Localization Transition"*   
 [*Annalen der Physik* 2017, 1600350](http://onlinelibrary.wiley.com/doi/10.1002/andp.201600350/full), [arXiv:1610.08993](http://arxiv.org/abs/1610.08993)   
