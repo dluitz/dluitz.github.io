@@ -9,6 +9,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2017
 ----
 
++ **D. J. Luitz**, Y. Bar Lev, A. Lazarides    
+*"Absence of dynamical localization in interacting driven systems"*  
+[arXiv:1706.09429](https://arxiv.org/abs/1706.09429)  
+
 + **D. J. Luitz**, F. Huveneers and W. de Roeck  
 *"How a small quantum bath can thermalize long localized chains"*   
 [arXiv:1705.10807](https://arxiv.org/abs/1705.10807)   
@@ -28,7 +32,7 @@ Invited review article in special issue on Many-body localization.
 
 + **D. J. Luitz** and Y. Bar Lev  
 *"Information propagation in isolated quantum systems"*  
-[arXiv:1702.03929](https://arxiv.org/abs/1702.03929)  
+*Phys. Rev. B, Rapid Comm.* in press, [arXiv:1702.03929](https://arxiv.org/abs/1702.03929)  
 
 
 2016
