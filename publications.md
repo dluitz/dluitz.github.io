@@ -18,8 +18,13 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 [arXiv:1705.10807](https://arxiv.org/abs/1705.10807)   
 
 + **D. J. Luitz** and Y. Bar Lev  
+*"Information propagation in isolated quantum systems"*  
+[*Phys. Rev. B* **96**, 020406(R) (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.020406), [arXiv:1702.03929](https://arxiv.org/abs/1702.03929)       
+[Rapid Communication, Editor's Suggestion]   
+
++ **D. J. Luitz** and Y. Bar Lev  
 *"The Ergodic Side of the Many-Body Localization Transition"*   
-[*Annalen der Physik* 2017, 1600350](http://onlinelibrary.wiley.com/doi/10.1002/andp.201600350/full), [arXiv:1610.08993](http://arxiv.org/abs/1610.08993)   
+[*Annalen der Physik*  **529**,  1600350 (2017) ](http://onlinelibrary.wiley.com/doi/10.1002/andp.201600350/full), [arXiv:1610.08993](http://arxiv.org/abs/1610.08993)   
 Invited review article in special issue on Many-body localization.
 
 + **D. J. Luitz** and N. Laflorencie   
@@ -29,10 +34,6 @@ Invited review article in special issue on Many-body localization.
 + T. Zhou and **D. J. Luitz**  
 *"Operator entanglement entropy of the time evolution operator in chaotic systems"*   
 *Phys. Rev. B* **95**, 094206 (2017) [Editor's Suggestion], [arXiv:1612.07327](https://arxiv.org/abs/1612.07327)  
-
-+ **D. J. Luitz** and Y. Bar Lev  
-*"Information propagation in isolated quantum systems"*  
-*Phys. Rev. B, Rapid Comm.* in press, [arXiv:1702.03929](https://arxiv.org/abs/1702.03929)  
 
 
 2016
