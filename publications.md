@@ -9,7 +9,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2017
 ----
 
-+ **D. J. Luitz**, Y. Bar Lev, A. Lazarides    
++ **D. J. Luitz**, Y. Bar Lev and A. Lazarides    
 *"Absence of dynamical localization in interacting driven systems"*  
 [arXiv:1706.09429](https://arxiv.org/abs/1706.09429)  
 
@@ -20,7 +20,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 + **D. J. Luitz** and Y. Bar Lev  
 *"Information propagation in isolated quantum systems"*  
 [*Phys. Rev. B* **96**, 020406(R) (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.020406), [arXiv:1702.03929](https://arxiv.org/abs/1702.03929)       
-[Rapid Communication, Editor's Suggestion]   
+[Rapid Communication, Editors' Suggestion]   
 
 + **D. J. Luitz** and Y. Bar Lev  
 *"The Ergodic Side of the Many-Body Localization Transition"*   
@@ -33,7 +33,7 @@ Invited review article in special issue on Many-body localization.
 
 + T. Zhou and **D. J. Luitz**  
 *"Operator entanglement entropy of the time evolution operator in chaotic systems"*   
-*Phys. Rev. B* **95**, 094206 (2017) [Editor's Suggestion], [arXiv:1612.07327](https://arxiv.org/abs/1612.07327)  
+*Phys. Rev. B* **95**, 094206 (2017) [Editors' Suggestion], [arXiv:1612.07327](https://arxiv.org/abs/1612.07327)  
 
 
 2016
