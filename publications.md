@@ -16,8 +16,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + **D. J. Luitz**, Y. Bar Lev and A. Lazarides    
 *"Absence of dynamical localization in interacting driven systems"*   
-Accepted in SciPost Physics   
-[arXiv:1706.09429](https://arxiv.org/abs/1706.09429)  
+[*SciPost Phys.* **3**, 029 (2017)](https://scipost.org/SciPostPhys.3.4.029), [arXiv:1706.09429](https://arxiv.org/abs/1706.09429)  
 
 + **D. J. Luitz**, F. Huveneers and W. de Roeck  
 *"How a small quantum bath can thermalize long localized chains"*   
