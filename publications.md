@@ -9,7 +9,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2017
 ----
 
-+ B. Villalonga, X. Yu, **D. J. Luitz**, B. K. Clark   
++ **D. J. Luitz**, A. Lazarides and Y. Bar Lev   
+*"(Quasi)Periodic revivals in periodically driven interacting quantum systems"*   
+[arXiv:1710.11132](https://arxiv.org/abs/1710.11132)   
+
++ B. Villalonga, X. Yu, **D. J. Luitz** and B. K. Clark   
 *"Exploring one particle orbitals in large Many-Body Localized systems"*    
 [arXiv:1710.05036](https://arxiv.org/abs/1710.05036)    
 
