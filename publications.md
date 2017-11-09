@@ -24,7 +24,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + **D. J. Luitz**, F. Huveneers and W. de Roeck  
 *"How a small quantum bath can thermalize long localized chains"*   
-[*Phys. Rev. Lett* **119**, 150602 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.150602) [Editor's Suggestion], [arXiv:1705.10807](https://arxiv.org/abs/1705.10807)   
+[*Phys. Rev. Lett* **119**, 150602 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.150602), [arXiv:1705.10807](https://arxiv.org/abs/1705.10807)   
+[Editor's Suggestion]
 
 + **D. J. Luitz** and Y. Bar Lev  
 *"Information propagation in isolated quantum systems"*  
@@ -42,7 +43,8 @@ Invited review article in special issue on Many-body localization.
 
 + T. Zhou and **D. J. Luitz**  
 *"Operator entanglement entropy of the time evolution operator in chaotic systems"*   
-*Phys. Rev. B* **95**, 094206 (2017) [Editors' Suggestion], [arXiv:1612.07327](https://arxiv.org/abs/1612.07327)  
+[*Phys. Rev. B* **95**, 094206 (2017)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.094206), [arXiv:1612.07327](https://arxiv.org/abs/1612.07327)    
+[Editors' Suggestion]
 
 
 2016
