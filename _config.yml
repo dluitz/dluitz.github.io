@@ -15,7 +15,7 @@ baseurl:             ''
 author:
   name:              David J. Luitz
   url:               http://dluitz.github.io
-  email:             dluitz@illinois.edu
+  email:             david.j.luitz@gmail.com
 
 # Custom vars
 version:             1.0.0

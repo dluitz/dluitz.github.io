@@ -28,6 +28,10 @@
  * Themes
  */
 
+/***
+ *  COLOR PALETTE
+ *  http://paletton.com/#uid=73w0u0krXLfgTRDmCO5DmIqFWs4
+ */
 
 /*
  * Body resets
@@ -70,14 +74,29 @@ a {
   color: #268bd2;
   text-decoration: none;
 }
+
 a strong {
   color: inherit;
 }
+
+/* special color for arxiv links */
+a.arxiv {
+  color: #ff9000;
+  text-decoration: none;
+}
+
+/* special color for published links */
+a.pub {
+  color: #097aca;
+  text-decoration: none;
+}
+
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
   text-decoration: underline;
 }
+
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
