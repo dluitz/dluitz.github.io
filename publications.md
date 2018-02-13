@@ -11,6 +11,12 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2018
 ----
 
++ S. Roy, Y. Bar Lev and **D. J. Luitz**   
+*"Anomalous thermalization and transport in disordered interacting Floquet systems"*  
+[arXiv:1802.03401](https://arxiv.org/abs/1802.03401){:class='arxiv'}  
+
+
+
 + **D. J. Luitz**, A. Lazarides and Y. Bar Lev   
 *"Periodic and quasiperiodic revivals in periodically driven interacting quantum systems"*   
 [*Phys. Rev. B* **97**, 020303(R) (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.020303){:class='pub'}, [arXiv:1710.11132](https://arxiv.org/abs/1710.11132){:class='arxiv'}  
