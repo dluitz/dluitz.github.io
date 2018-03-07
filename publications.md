@@ -10,7 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2018
 ----
-
++ B. Villalonga, X. Yu, **D. J. Luitz** and B. K. Clark   
+*"Exploring one-particle orbitals in large many-body Localized systems"*    
+[*Phys. Rev. B* **97**, 104406 (2018)], (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.104406){:class='pub'} [arXiv:1710.05036](https://arxiv.org/abs/1710.05036){:class='arxiv'}   
+[Editor's Suggestion]
+ 
 + S. Roy, Y. Bar Lev and **D. J. Luitz**   
 *"Anomalous thermalization and transport in disordered interacting Floquet systems"*  
 [arXiv:1802.03401](https://arxiv.org/abs/1802.03401){:class='arxiv'}  
@@ -25,11 +29,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2017
 ----
-
-+ B. Villalonga, X. Yu, **D. J. Luitz** and B. K. Clark   
-*"Exploring one particle orbitals in large Many-Body Localized systems"*    
-[arXiv:1710.05036](https://arxiv.org/abs/1710.05036){:class='arxiv'}
-   
 
 + **D. J. Luitz**, Y. Bar Lev and A. Lazarides    
 *"Absence of dynamical localization in interacting driven systems"*   
