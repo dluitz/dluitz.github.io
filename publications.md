@@ -10,6 +10,12 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2018
 ----
+
++ F. Pietracaprina, N. Macé, **D. J. Luitz** and F. Alet   
+*"Shift-invert diagonalization of large many-body localizing spin chains"*   
+[arXiv:1803.05395](https://arxiv.org/abs/1803.05395){:class='arxiv'}   
+[Open source code for the random XXZ chain at [https://bitbucket.org/dluitz/sinvert_mbl/](https://bitbucket.org/dluitz/sinvert_mbl/)]
+
 + B. Villalonga, X. Yu, **D. J. Luitz** and B. K. Clark   
 *"Exploring one-particle orbitals in large many-body Localized systems"*    
 [*Phys. Rev. B* **97**, 104406 (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.104406){:class='pub'}, [arXiv:1710.05036](https://arxiv.org/abs/1710.05036){:class='arxiv'}   
