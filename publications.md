@@ -169,7 +169,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + **D. J. Luitz** and F. F. Assaad   
 *“Weak-coupling continuous-time quantum Monte Carlo study of the single impurity and periodic Anderson models with s-wave superconducting baths”*   
-[Phys. Rev. B **81**, 024509 (2010)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.024509){:class='pub'}, [arXiv0909.2656](http://arxiv.org/abs/0909.2656){:class='arxiv'}
+[Phys. Rev. B **81**, 024509 (2010)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.024509){:class='pub'}, [arXiv:0909.2656](http://arxiv.org/abs/0909.2656){:class='arxiv'}
 
 
 2009
