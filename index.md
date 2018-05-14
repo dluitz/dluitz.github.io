@@ -8,7 +8,7 @@ title: Home
 Welcome! 
 =====================
 
-I am a condensed matter theorist leading the research group **Computational Quantum Many-body Physics** at the [Max-Planck-Institute for the Physics of Complex Systems](https://www.pks.mpg.de/de/) in Dresden, Germany.
+I am a condensed matter theorist leading the research group [**Computational Quantum Many-body Physics**](https://www.pks.mpg.de/computational-quantum-many-body-physics) at the [Max-Planck-Institute for the Physics of Complex Systems](https://www.pks.mpg.de/de/) in Dresden, Germany.
 
 I studied strongly correlated quantum matter as a European Union *Marie Skłodowska Curie Fellow* 
 at [Technische Universität München](http://www.ph.tum.de) in the group of [Frank Pollmann](https://www.professoren.tum.de/en/pollmann-frank/) until March 2018.
