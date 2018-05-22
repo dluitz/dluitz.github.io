@@ -11,6 +11,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2018
 ----
 
++ **D. J. Luitz** and Y. Bar Lev   
+*Emergent locality in systems with power-law interactions*   
+[arXiv:1805.06895](https://arxiv.org/abs/1805.06895){:class='arxiv'}  
+
+
 + F. Pietracaprina, N. Macé, **D. J. Luitz** and F. Alet   
 *"Shift-invert diagonalization of large many-body localizing spin chains"*   
 [arXiv:1803.05395](https://arxiv.org/abs/1803.05395){:class='arxiv'}   
