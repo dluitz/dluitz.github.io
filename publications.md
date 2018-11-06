@@ -18,7 +18,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + F. Pietracaprina, N. Macé, **D. J. Luitz** and F. Alet   
 *"Shift-invert diagonalization of large many-body localizing spin chains"*   
-[arXiv:1803.05395](https://arxiv.org/abs/1803.05395){:class='arxiv'}   
+[*SciPost Phys.* **5**, 045 (2018)](https://scipost.org/SciPostPhys.5.5.045){:class='pub'}, [arXiv:1803.05395](https://arxiv.org/abs/1803.05395){:class='arxiv'}   
 [Open source code for the random XXZ chain at [https://bitbucket.org/dluitz/sinvert_mbl/](https://bitbucket.org/dluitz/sinvert_mbl/)]
 
 + B. Villalonga, X. Yu, **D. J. Luitz** and B. K. Clark   
@@ -28,8 +28,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
  
 + S. Roy, Y. Bar Lev and **D. J. Luitz**   
 *"Anomalous thermalization and transport in disordered interacting Floquet systems"*  
-[arXiv:1802.03401](https://arxiv.org/abs/1802.03401){:class='arxiv'}  
-
+[*Phys. Rev. B* **98**, 060201(R) (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.060201){:class='pub'}, [arXiv:1802.03401](https://arxiv.org/abs/1802.03401){:class='arxiv'}  
+[Rapid Communication]
 
 
 + **D. J. Luitz**, A. Lazarides and Y. Bar Lev   
