@@ -11,6 +11,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2018
 ----
 
++ **D. J. Luitz** and F. Pollmann  
+*Lokalisierung statt Thermalisierung*   
+[*Physik Journal* **17**, 047 (2018) Nr. 11](http://www.pro-physik.de/details/physikjournalArticle/11109569/Lokalisierung_statt_Thermalisierung.html){:class='pub'}   
+
 + **D. J. Luitz** and Y. Bar Lev   
 *"Emergent locality in systems with power-law interactions"*   
 [arXiv:1805.06895](https://arxiv.org/abs/1805.06895){:class='arxiv'}  
