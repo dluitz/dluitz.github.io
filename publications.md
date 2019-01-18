@@ -7,6 +7,14 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 
+2019
+----
+
++ K. Hémery, F. Pollmann and **D. J. Luitz**    
+*"Tensor network approaches to operator spreading in ergodic quantum systems"*   
+[arXiv:1901.05793](https://arxiv.org/abs/1901.05793){:class='arxiv'}  
+
+
 
 2018
 ----
@@ -18,6 +26,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 + **D. J. Luitz** and Y. Bar Lev   
 *"Emergent locality in systems with power-law interactions"*   
 [arXiv:1805.06895](https://arxiv.org/abs/1805.06895){:class='arxiv'}  
+[accepted for publication in *Phys. Rev. A*]
 
 
 + F. Pietracaprina, N. Macé, **D. J. Luitz** and F. Alet   
