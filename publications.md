@@ -12,7 +12,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + **D. J. Luitz** and Y. Bar Lev   
 *"Emergent locality in systems with power-law interactions"*   
-[*Phys. Rev. A* **99**, 010105(R) (2019)](https://journals.aps.org/pra/pdf/10.1103/PhysRevA.99.010105){:class='pub'}, [arXiv:1805.06895](https://arxiv.org/abs/1805.06895){:class='arxiv'}  
+[*Phys. Rev. A* **99**, 010105(R) (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.010105){:class='pub'}, [arXiv:1805.06895](https://arxiv.org/abs/1805.06895){:class='arxiv'}  
 
 
 + K. Hémery, F. Pollmann and **D. J. Luitz**    
