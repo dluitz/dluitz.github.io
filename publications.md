@@ -10,6 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2019
 ----
 
++ **D. J. Luitz** and F. Piazza   
+*"Exceptional points and the topology of quantum many-body spectra"*  
+[arXiv:1906.02224](https://arxiv.org/abs/1906.02224){:class='arxiv'}  
+
+
 + **D. J. Luitz** and Y. Bar Lev   
 *"Emergent locality in systems with power-law interactions"*   
 [*Phys. Rev. A* **99**, 010105(R) (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.010105){:class='pub'}, [arXiv:1805.06895](https://arxiv.org/abs/1805.06895){:class='arxiv'}  
