@@ -10,7 +10,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2019
 ----
 
-+ Luis Colmenarez, Paul A. McClarty, Masudul Haque and **David J. Luitz**   
++ L. Colmenarez, P. A. McClarty, M. Haque and **D. J. Luitz**   
 *"Statistics of correlations across the many-body localization transition"*   
 [arXiv:1906.10701](https://arxiv.org/abs/1906.10701){:class='arxiv'}
 
