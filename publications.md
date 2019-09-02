@@ -10,6 +10,16 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2019
 ----
 
++ **D. J. Luitz**, R. Moessner, S. L. Sondhi and V. Khemani   
+*"Prethermalization without temperature"*   
+[arXiv:1908.10371](https://arxiv.org/abs/1908.10371){:class='arxiv'}  
+
+
++ T. L.M. Lezama and **D. J. Luitz**  
+*"Power-law entanglement growth from typical product states"*  
+[arXiv:1908.07010](https://arxiv.org/abs/1908.07010){:class='arxiv'}  
+
+
 + L. Colmenarez, P. A. McClarty, M. Haque and **D. J. Luitz**   
 *"Statistics of correlations across the many-body localization transition"*   
 [arXiv:1906.10701](https://arxiv.org/abs/1906.10701){:class='arxiv'}
@@ -27,7 +37,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + K. Hémery, F. Pollmann and **D. J. Luitz**    
 *"Tensor network approaches to operator spreading in ergodic quantum systems"*   
-[arXiv:1901.05793](https://arxiv.org/abs/1901.05793){:class='arxiv'}  
+[arXiv:1901.05793](https://arxiv.org/abs/1901.05793){:class='arxiv'}   
+[accepted for publication in *Phys. Rev. B*]
 
 
 2018
