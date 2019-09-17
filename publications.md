@@ -10,6 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2019
 ----
 
++ **D. J. Luitz**, I. Khaymovich and Y. Bar Lev  
+*" Multifractality and its role in anomalous transport in the disordered XXZ spin-chain "*  
+[arXiv:1909.06380](https://arxiv.org/abs/1909.06380){:class='arxiv'}   
+
+
 + **D. J. Luitz**, R. Moessner, S. L. Sondhi and V. Khemani   
 *"Prethermalization without temperature"*   
 [arXiv:1908.10371](https://arxiv.org/abs/1908.10371){:class='arxiv'}  
