@@ -42,8 +42,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + K. Hémery, F. Pollmann and **D. J. Luitz**    
 *"Matrix product states approaches to operator spreading in ergodic quantum systems"*   
-[arXiv:1901.05793](https://arxiv.org/abs/1901.05793){:class='arxiv'}   
-[*Phys. Rev. B* **100**, 104303 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104303){:class='pub'}  
+[*Phys. Rev. B* **100**, 104303 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104303){:class='pub'}, [arXiv:1901.05793](https://arxiv.org/abs/1901.05793){:class='arxiv'}    
 
 
 2018
