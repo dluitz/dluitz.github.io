@@ -22,7 +22,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + T. L.M. Lezama and **D. J. Luitz**  
 *"Power-law entanglement growth from typical product states"*  
-[arXiv:1908.07010](https://arxiv.org/abs/1908.07010){:class='arxiv'}  
+[arXiv:1908.07010](https://arxiv.org/abs/1908.07010){:class='arxiv'}   
+*Accepted for Publication in Phys. Rev. Research*  
 
 
 + L. Colmenarez, P. A. McClarty, M. Haque and **D. J. Luitz**   
