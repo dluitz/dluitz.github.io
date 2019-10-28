@@ -33,8 +33,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + **D. J. Luitz** and F. Piazza   
 *"Exceptional points and the topology of quantum many-body spectra"*  
-[arXiv:1906.02224](https://arxiv.org/abs/1906.02224){:class='arxiv'}   
-*In press with Phys. Rev. Research*
+[*Phys. Rev. Research*, **1**, 033051 (2019)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033051){:class='pub'}, [arXiv:1906.02224](https://arxiv.org/abs/1906.02224){:class='arxiv'}    
 
 
 + **D. J. Luitz** and Y. Bar Lev   
