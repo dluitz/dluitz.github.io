@@ -22,13 +22,14 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + T. L.M. Lezama and **D. J. Luitz**  
 *"Power-law entanglement growth from typical product states"*  
+[*Phys. Rev. Research* **1**, 033067 (2019)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033067){:class='pub'}, 
 [arXiv:1908.07010](https://arxiv.org/abs/1908.07010){:class='arxiv'}   
-*Accepted for Publication in Phys. Rev. Research*  
 
 
 + L. Colmenarez, P. A. McClarty, M. Haque and **D. J. Luitz**   
 *"Statistics of correlations across the many-body localization transition"*   
-[arXiv:1906.10701](https://arxiv.org/abs/1906.10701){:class='arxiv'}
+[arXiv:1906.10701](https://arxiv.org/abs/1906.10701){:class='arxiv'}   
+*Accepted for publication in SciPost Physics*
 
 
 + **D. J. Luitz** and F. Piazza   
