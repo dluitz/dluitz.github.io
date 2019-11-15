@@ -10,6 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2019
 ----
 
++ K. Wang, F. Piazza, **D. J. Luitz**    
+*" Hierarchy of relaxation timescales in local random Liouvillians "*   
+[arXiv:1911.05740](https://arxiv.org/abs/1911.05740){:class='arxiv'}   
+
+
 + **D. J. Luitz**, I. Khaymovich and Y. Bar Lev  
 *" Multifractality and its role in anomalous transport in the disordered XXZ spin-chain "*  
 [arXiv:1909.06380](https://arxiv.org/abs/1909.06380){:class='arxiv'}   
