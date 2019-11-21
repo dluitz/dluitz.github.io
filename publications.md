@@ -33,8 +33,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + L. Colmenarez, P. A. McClarty, M. Haque and **D. J. Luitz**   
 *"Statistics of correlations across the many-body localization transition"*   
+[*SciPost Phys.* **7**, 064 (2019)](https://scipost.org/SciPostPhys.7.5.064){:class='pub'}, 
 [arXiv:1906.10701](https://arxiv.org/abs/1906.10701){:class='arxiv'}   
-*Accepted for publication in SciPost Physics*
 
 
 + **D. J. Luitz** and F. Piazza   
