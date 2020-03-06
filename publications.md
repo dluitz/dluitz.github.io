@@ -13,6 +13,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 + K. Wang, F. Piazza, **D. J. Luitz**    
 *" Hierarchy of relaxation timescales in local random Liouvillians "*   
 [arXiv:1911.05740](https://arxiv.org/abs/1911.05740){:class='arxiv'}   
+[accepted for publication in Phys. Rev. Lett., selected for editor's suggestion]   
 
 
 + **D. J. Luitz**, I. Khaymovich and Y. Bar Lev  
@@ -23,6 +24,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 + **D. J. Luitz**, R. Moessner, S. L. Sondhi and V. Khemani   
 *"Prethermalization without temperature"*   
 [arXiv:1908.10371](https://arxiv.org/abs/1908.10371){:class='arxiv'}  
+[accepted for publication in Phys. Rev. X]   
 
 
 + T. L.M. Lezama and **D. J. Luitz**  
