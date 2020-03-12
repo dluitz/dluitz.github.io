@@ -10,6 +10,7 @@ tagline:             'Condensed Matter Theory'
 description:         "David J. Luitz's research website"
 url:                 http://dluitz.github.io
 baseurl:             ''
+encoding:            UTF-8
 
 # About/contact
 author:
