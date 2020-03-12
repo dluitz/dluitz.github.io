@@ -7,6 +7,15 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 
+2020 
+----
+
++ R. Schäfer, I. Hagymási, R. Moessner and **D. J. Luitz**  
+*"The pyrochlore S=1/2 Heisenberg antiferromagnet at finite temperature"*   
+[arXiv:2003.04898](https://arxiv.org/abs/2003.04898){:class='arxiv'}   
+
+
+
 2019
 ----
 
