@@ -20,16 +20,14 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 [*Phys. Rev. Lett.* **124**, 100604 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.100604){:class='pub'}, [arXiv:1911.05740](https://arxiv.org/abs/1911.05740){:class='arxiv'}   
 [Editor's suggestion, featured on the PRL cover]    
 
++ **D. J. Luitz**, I. Khaymovich and Y. Bar Lev  
+*" Multifractality and its role in anomalous transport in the disordered XXZ spin-chain "*  
+[*SciPost Phys. Core* **2**, 006 (2020)](https://scipost.org/SciPostPhysCore.2.2.006){:class='pub'}, [arXiv:1909.06380](https://arxiv.org/abs/1909.06380){:class='arxiv'}   
+
 
 
 2019
 ----
-
-
-+ **D. J. Luitz**, I. Khaymovich and Y. Bar Lev  
-*" Multifractality and its role in anomalous transport in the disordered XXZ spin-chain "*  
-[arXiv:1909.06380](https://arxiv.org/abs/1909.06380){:class='arxiv'}   
-
 
 + **D. J. Luitz**, R. Moessner, S. L. Sondhi and V. Khemani   
 *"Prethermalization without temperature"*   
