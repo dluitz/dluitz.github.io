@@ -10,6 +10,9 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2020
 ----
 
++ Luis Colmenarez and **D. J. Luitz**  
+*"Lieb Robinson bounds and out of time order correlators in a long range spin chain"*  
+[arXiv:2005.10257](https://arxiv.org/abs/2005.10257){:class='arxiv'}    
 
 + R. Schäfer, I. Hagymási, R. Moessner and **D. J. Luitz**  
 *"The pyrochlore S=1/2 Heisenberg antiferromagnet at finite temperature"*   
