@@ -22,6 +22,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 *"The pyrochlore S=1/2 Heisenberg antiferromagnet at finite temperature"*   
 [arXiv:2003.04898](https://arxiv.org/abs/2003.04898){:class='arxiv'}   
 
++ **D. J. Luitz**, R. Moessner, S. L. Sondhi and V. Khemani   
+*"Prethermalization without temperature"*   
+[*Phys. Rev. X* **10**, 021046 (2020)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.021046){:class='pub'}, [arXiv:1908.10371](https://arxiv.org/abs/1908.10371){:class='arxiv'}  
+
 + K. Wang, F. Piazza, **D. J. Luitz**    
 *" Hierarchy of relaxation timescales in local random Liouvillians "*   
 [*Phys. Rev. Lett.* **124**, 100604 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.100604){:class='pub'}, [arXiv:1911.05740](https://arxiv.org/abs/1911.05740){:class='arxiv'}   
@@ -35,11 +39,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2019
 ----
-
-+ **D. J. Luitz**, R. Moessner, S. L. Sondhi and V. Khemani   
-*"Prethermalization without temperature"*   
-[arXiv:1908.10371](https://arxiv.org/abs/1908.10371){:class='arxiv'}  
-[accepted for publication in Phys. Rev. X]   
 
 
 + T. L.M. Lezama and **D. J. Luitz**  
