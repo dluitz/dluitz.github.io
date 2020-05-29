@@ -10,6 +10,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2020
 ----
 
++ Maurits Tepaske and **D. J. Luitz**  
+*"Three-dimensional isometric tensor networks"*  
+[arXiv:2005.13592](https://arxiv.org/abs/2005.13592){:class='arxiv'}    
+
 + Luis Colmenarez and **D. J. Luitz**  
 *"Lieb Robinson bounds and out of time order correlators in a long range spin chain"*  
 [arXiv:2005.10257](https://arxiv.org/abs/2005.10257){:class='arxiv'}    
