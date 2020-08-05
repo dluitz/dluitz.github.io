@@ -23,8 +23,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 [arXiv:2005.10257](https://arxiv.org/abs/2005.10257){:class='arxiv'}    
 
 + R. Schäfer, I. Hagymási, R. Moessner and **D. J. Luitz**  
-*"The pyrochlore S=1/2 Heisenberg antiferromagnet at finite temperature"*   
-[arXiv:2003.04898](https://arxiv.org/abs/2003.04898){:class='arxiv'}   
+*"Pyrochlore S=1/2 Heisenberg antiferromagnet at finite temperature"*   
+[*Phys. Rev. B* **102**, 054408 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.054408){:class='pub'}, [arXiv:2003.04898](https://arxiv.org/abs/2003.04898){:class='arxiv'}   
 
 + **D. J. Luitz**, R. Moessner, S. L. Sondhi and V. Khemani   
 *"Prethermalization without temperature"*   
