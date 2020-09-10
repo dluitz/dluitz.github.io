@@ -11,10 +11,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2020
 ----
 
-+ **D. J. Luitz** and Y. Bar Lev   
-*"Is there slow particle transport in the MBL phase?"*  
-[arXiv:2007.13767](https://arxiv.org/abs/2007.13767){:class='arxiv'}   
-Raw data published here: [https://dx.doi.org/10.17617/3.4i](https://dx.doi.org/10.17617/3.4i)  
 
 + M. Tepaske and **D. J. Luitz**  
 *"Three-dimensional isometric tensor networks"*  
@@ -23,6 +19,11 @@ Raw data published here: [https://dx.doi.org/10.17617/3.4i](https://dx.doi.org/1
 + L. Colmenarez and **D. J. Luitz**  
 *"Lieb Robinson bounds and out of time order correlators in a long range spin chain"*  
 [arXiv:2005.10257](https://arxiv.org/abs/2005.10257){:class='arxiv'}    
+
++ **D. J. Luitz** and Y. Bar Lev   
+*"Absence of slow particle transport in the many-body localized phase"*  
+[*Phys. Rev. B* **102**, 100202(R) (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100202){:class='pub'}, [arXiv:2007.13767](https://arxiv.org/abs/2007.13767){:class='arxiv'}   
+Raw data published here: [https://dx.doi.org/10.17617/3.4i](https://dx.doi.org/10.17617/3.4i)  
 
 + R. Schäfer, I. Hagymási, R. Moessner and **D. J. Luitz**  
 *"Pyrochlore S=1/2 Heisenberg antiferromagnet at finite temperature"*   
