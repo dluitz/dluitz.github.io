@@ -18,7 +18,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + L. Colmenarez and **D. J. Luitz**  
 *"Lieb Robinson bounds and out of time order correlators in a long range spin chain"*  
-[arXiv:2005.10257](https://arxiv.org/abs/2005.10257){:class='arxiv'}    
+[arXiv:2005.10257](https://arxiv.org/abs/2005.10257){:class='arxiv'}, accepted for publication in *Phys. Rev. Research*       
 
 + **D. J. Luitz** and Y. Bar Lev   
 *"Absence of slow particle transport in the many-body localized phase"*  
