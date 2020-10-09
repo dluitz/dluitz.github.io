@@ -11,6 +11,9 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2020
 ----
 
++ I. Hagymási, R. Schäfer, R. Moessner, **D. J. Luitz**  
+*"Possible inversion symmetry breaking in the S=1/2 pyrochlore Heisenberg magnet"*   
+[arXiv:2010.03563](https://arxiv.org/abs/2010.03563){:class='arxiv'}  
 
 + M. Tepaske and **D. J. Luitz**  
 *"Three-dimensional isometric tensor networks"*  
