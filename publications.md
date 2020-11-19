@@ -11,7 +11,12 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2020
 ----
 
-+ I. Hagymási, R. Schäfer, R. Moessner, **D. J. Luitz**  
++ O. E. Sommer, F. Piazza, and **D. J. Luitz**  
+*"Many-body Hierarchy of Dissipative Timescales in a Quantum Computer"*   
+[arXiv:2011.08853](https://arxiv.org/abs/2011.08853){:class='arxiv'}  
+
+
++ I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
 *"Possible inversion symmetry breaking in the S=1/2 pyrochlore Heisenberg magnet"*   
 [arXiv:2010.03563](https://arxiv.org/abs/2010.03563){:class='arxiv'}  
 
