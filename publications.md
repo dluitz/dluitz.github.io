@@ -7,6 +7,15 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 
+2021  
+----  
+
++ **D. J. Luitz**   
+*"Polynomial filter diagonalization of large Floquet unitary operators"*  
+[arXiv:2102.05054](https://arxiv.org/abs/2102.05054){:class='arxiv'}  
+
+
+
 
 2020
 ----
