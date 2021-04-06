@@ -10,6 +10,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2021  
 ----  
 
++ D. Hahn, P. A. McClarty, **D. J. Luitz**  
+*Information Dynamics in a Model with Hilbert Space Fragmentation*  
+[arXiv:2104.00692](https://arxiv.org/abs/2104.00692){:class='arxiv'}  
+
 + **D. J. Luitz**   
 *"Polynomial filter diagonalization of large Floquet unitary operators"*  
 [arXiv:2102.05054](https://arxiv.org/abs/2102.05054){:class='arxiv'}  
