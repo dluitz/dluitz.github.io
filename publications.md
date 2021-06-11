@@ -18,6 +18,12 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 *"Polynomial filter diagonalization of large Floquet unitary operators"*  
 [arXiv:2102.05054](https://arxiv.org/abs/2102.05054){:class='arxiv'}  
 
++ O. E. Sommer, F. Piazza, and **D. J. Luitz**  
+*"Many-body Hierarchy of Dissipative Timescales in a Quantum Computer"*   
+[*Phys. Rev. Research* **3**, 023190 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023190){:class='pub'}, [arXiv:2011.08853](https://arxiv.org/abs/2011.08853){:class='arxiv'}  
+
+
+
 + I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
 *"Possible inversion symmetry breaking in the S=1/2 pyrochlore Heisenberg magnet"*   
 [*Phys. Rev. Lett.* **126**, 117204 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.117204){:class='pub'}, [arXiv:2010.03563](https://arxiv.org/abs/2010.03563){:class='arxiv'}  
@@ -27,10 +33,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2020
 ----
-
-+ O. E. Sommer, F. Piazza, and **D. J. Luitz**  
-*"Many-body Hierarchy of Dissipative Timescales in a Quantum Computer"*   
-[arXiv:2011.08853](https://arxiv.org/abs/2011.08853){:class='arxiv'}  
 
 + M. Tepaske and **D. J. Luitz**  
 *"Three-dimensional isometric tensor networks"*  
