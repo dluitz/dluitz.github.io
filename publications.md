@@ -10,18 +10,25 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2021  
 ----  
 
++ I. Hagymási, R. Schäfer, R. Moessner, **D. J. Luitz**  
+*"Magnetization process and ordering of the S=1/2 pyrochlore magnet in a field"*   
+[arXiv:2106.09722](https://arxiv.org/abs/2106.09722){:class='arxiv'}  
+
 + D. Hahn, P. A. McClarty, **D. J. Luitz**  
-*Information Dynamics in a Model with Hilbert Space Fragmentation*  
+*"Information Dynamics in a Model with Hilbert Space Fragmentation"*  
 [arXiv:2104.00692](https://arxiv.org/abs/2104.00692){:class='arxiv'}  
 
 + **D. J. Luitz**   
 *"Polynomial filter diagonalization of large Floquet unitary operators"*  
 [arXiv:2102.05054](https://arxiv.org/abs/2102.05054){:class='arxiv'}  
 
++ M. Tepaske and **D. J. Luitz**  
+*"Three-dimensional isometric tensor networks"*  
+[*Phys. Rev. Research* **3**, 023236 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023236){:class='pub'}, [arXiv:2005.13592](https://arxiv.org/abs/2005.13592){:class='arxiv'}    
+
 + O. E. Sommer, F. Piazza, and **D. J. Luitz**  
 *"Many-body Hierarchy of Dissipative Timescales in a Quantum Computer"*   
 [*Phys. Rev. Research* **3**, 023190 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023190){:class='pub'}, [arXiv:2011.08853](https://arxiv.org/abs/2011.08853){:class='arxiv'}  
-
 
 
 + I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
@@ -33,10 +40,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2020
 ----
-
-+ M. Tepaske and **D. J. Luitz**  
-*"Three-dimensional isometric tensor networks"*  
-[arXiv:2005.13592](https://arxiv.org/abs/2005.13592){:class='arxiv'}    
 
 + L. Colmenarez and **D. J. Luitz**  
 *"Lieb Robinson bounds and out of time order correlators in a long range spin chain"*   
