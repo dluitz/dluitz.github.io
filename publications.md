@@ -10,6 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2021  
 ----  
 
++ A. Morningstar, L. Colmenarez, V. Khemani, **D. J. Luitz**, D. A. Huse  
+*"Avalanches and many-body resonances in many-body localized systems"*  
+[arXiv:2107.05642](https://arxiv.org/abs/2107.05642){:class='arxiv'}  
+
+
 + I. Hagymási, R. Schäfer, R. Moessner, **D. J. Luitz**  
 *"Magnetization process and ordering of the S=1/2 pyrochlore magnet in a field"*   
 [arXiv:2106.09722](https://arxiv.org/abs/2106.09722){:class='arxiv'}  
