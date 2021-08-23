@@ -25,7 +25,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + **D. J. Luitz**   
 *"Polynomial filter diagonalization of large Floquet unitary operators"*  
-[*SciPost Phys.* **11**, 021 (2021)](https://scipost.org/10.21468/SciPostPhys.11.2.021){:class='pub'}, [arXiv:2102.05054](https://arxiv.org/abs/2102.05054){:class='arxiv'}  
+[*SciPost Phys.* **11**, 021 (2021)](https://scipost.org/10.21468/SciPostPhys.11.2.021){:class='pub'}, [arXiv:2102.05054](https://arxiv.org/abs/2102.05054){:class='arxiv'}    
+Raw data published here: D. J. Luitz, Data and plotting scripts for arXiv:2102.05054, Max Planck Society (2021), [doi:10.17617/3.73](https://doi.org/10.17617/3.73)   
 
 + M. Tepaske and **D. J. Luitz**  
 *"Three-dimensional isometric tensor networks"*  
