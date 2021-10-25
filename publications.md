@@ -19,9 +19,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 *"Magnetization process and ordering of the S=1/2 pyrochlore magnet in a field"*   
 [arXiv:2106.09722](https://arxiv.org/abs/2106.09722){:class='arxiv'}  
 
+
 + D. Hahn, P. A. McClarty, **D. J. Luitz**  
 *"Information Dynamics in a Model with Hilbert Space Fragmentation"*  
-[arXiv:2104.00692](https://arxiv.org/abs/2104.00692){:class='arxiv'}  
+[*SciPost Phys.* **11**, 074 (2021)](https://www.scipost.org/SciPostPhys.11.4.074){:class='pub'}, [arXiv:2104.00692](https://arxiv.org/abs/2104.00692){:class='arxiv'}  
 
 + **D. J. Luitz**   
 *"Polynomial filter diagonalization of large Floquet unitary operators"*  
