@@ -10,6 +10,12 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2021  
 ----  
 
+
++ J. L. Li, D. C. Rose, J. P. Garrahan, **D. J. Luitz**  
+*"Random matrix theory for quantum and classical metastability in local Liouvillians"*  
+[arXiv:2110.13158](https://arxiv.org/abs/2110.13158){:class='arxiv'}  
+
+
 + A. Morningstar, L. Colmenarez, V. Khemani, **D. J. Luitz**, D. A. Huse  
 *"Avalanches and many-body resonances in many-body localized systems"*  
 [arXiv:2107.05642](https://arxiv.org/abs/2107.05642){:class='arxiv'}  
