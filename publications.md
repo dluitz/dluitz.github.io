@@ -10,6 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2021  
 ----  
 
++ M. Weber, **D. J. Luitz**, F. F. Assaad  
+*"Dissipation-induced order: the S=1/2 quantum spin chain coupled to an ohmic bath"*  
+[arXiv:2112.02124](https://arxiv.org/abs/2112.02124){:class='arxiv'}  
+
+
 
 + J. L. Li, D. C. Rose, J. P. Garrahan, **D. J. Luitz**  
 *"Random matrix theory for quantum and classical metastability in local Liouvillians"*  
