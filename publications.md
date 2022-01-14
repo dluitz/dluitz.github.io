@@ -7,31 +7,39 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 
+2022
+----
+
++ L. Colmenarez, **D. J. Luitz**, I. M. Khaymovich, and G. De Tomasi   
+*"Sub-diffusive Thouless time scaling in the Anderson model on random regular graphs"*   
+[arXiv:2201.04673](https://arxiv.org/abs/2201.04673){:class='arxiv'}  
+
+
+
 2021  
 ----  
 
-+ M. Weber, **D. J. Luitz**, F. F. Assaad  
++ M. Weber, **D. J. Luitz**, and F. F. Assaad  
 *"Dissipation-induced order: the S=1/2 quantum spin chain coupled to an ohmic bath"*  
 [arXiv:2112.02124](https://arxiv.org/abs/2112.02124){:class='arxiv'}  
 
 
-
-+ J. L. Li, D. C. Rose, J. P. Garrahan, **D. J. Luitz**  
++ J. L. Li, D. C. Rose, J. P. Garrahan, and **D. J. Luitz**  
 *"Random matrix theory for quantum and classical metastability in local Liouvillians"*  
 [arXiv:2110.13158](https://arxiv.org/abs/2110.13158){:class='arxiv'}  
 
 
-+ A. Morningstar, L. Colmenarez, V. Khemani, **D. J. Luitz**, D. A. Huse  
++ A. Morningstar, L. Colmenarez, V. Khemani, **D. J. Luitz**, and D. A. Huse  
 *"Avalanches and many-body resonances in many-body localized systems"*  
 [arXiv:2107.05642](https://arxiv.org/abs/2107.05642){:class='arxiv'}  
 
 
-+ I. Hagymási, R. Schäfer, R. Moessner, **D. J. Luitz**  
++ I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
 *"Magnetization process and ordering of the S=1/2 pyrochlore magnet in a field"*   
 [arXiv:2106.09722](https://arxiv.org/abs/2106.09722){:class='arxiv'}  
 
 
-+ D. Hahn, P. A. McClarty, **D. J. Luitz**  
++ D. Hahn, P. A. McClarty, and **D. J. Luitz**  
 *"Information Dynamics in a Model with Hilbert Space Fragmentation"*  
 [*SciPost Phys.* **11**, 074 (2021)](https://www.scipost.org/SciPostPhys.11.4.074){:class='pub'}, [arXiv:2104.00692](https://arxiv.org/abs/2104.00692){:class='arxiv'}  
 
