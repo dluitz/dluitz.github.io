@@ -10,6 +10,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2022
 ----
 
++ Maurits S. J. Tepaske, Dominik Hahn, **D. J. Luitz**  
+*Optimal compression of quantum many-body time evolution operators into brickwall circuits*   
+[arXiv:2205.03445](https://arxiv.org/abs/2205.03445){:class='arxiv'}  
+
 + R. Schäfer, J. C. Budich, **D. J. Luitz**  
 *Symmetry protected exceptional points of interacting fermions*  
 [arXiv:2204.05340](https://arxiv.org/abs/2204.05340){:class='arxiv'}  
