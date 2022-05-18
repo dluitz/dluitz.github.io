@@ -25,6 +25,18 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 [arXiv:2201.04673](https://arxiv.org/abs/2201.04673){:class='arxiv'}  
 
 
++ J. L. Li, D. C. Rose, J. P. Garrahan, and **D. J. Luitz**  
+*"Random matrix theory for quantum and classical metastability in local Liouvillians"*  
+[*Phys. Rev. B* **105**, L180201 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L180201){:class='pub'}, 
+[arXiv:2110.13158](https://arxiv.org/abs/2110.13158){:class='arxiv'}  
+[Letter]
+
++ A. Morningstar, L. Colmenarez, V. Khemani, **D. J. Luitz**, and D. A. Huse  
+*"Avalanches and many-body resonances in many-body localized systems"*  
+[*Phys. Rev. B* **105**, 174205 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.174205){:class='pub'}, 
+[arXiv:2107.05642](https://arxiv.org/abs/2107.05642){:class='arxiv'}   
+[Editor's suggestion]
+
 
 2021  
 ----  
@@ -34,14 +46,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 [arXiv:2112.02124](https://arxiv.org/abs/2112.02124){:class='arxiv'}  
 
 
-+ J. L. Li, D. C. Rose, J. P. Garrahan, and **D. J. Luitz**  
-*"Random matrix theory for quantum and classical metastability in local Liouvillians"*  
-[arXiv:2110.13158](https://arxiv.org/abs/2110.13158){:class='arxiv'}  
-
-
-+ A. Morningstar, L. Colmenarez, V. Khemani, **D. J. Luitz**, and D. A. Huse  
-*"Avalanches and many-body resonances in many-body localized systems"*  
-[arXiv:2107.05642](https://arxiv.org/abs/2107.05642){:class='arxiv'}  
 
 
 + I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
