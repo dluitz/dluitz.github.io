@@ -22,7 +22,8 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + L. Colmenarez, **D. J. Luitz**, I. M. Khaymovich, and G. De Tomasi   
 *"Sub-diffusive Thouless time scaling in the Anderson model on random regular graphs"*   
-[arXiv:2201.04673](https://arxiv.org/abs/2201.04673){:class='arxiv'}  
+[*Phys. Rev. B* **105**, 174207 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.174207){:class='pub'}, [arXiv:2201.04673](https://arxiv.org/abs/2201.04673){:class='arxiv'}   
+[Editor's suggestion]
 
 
 + J. L. Li, D. C. Rose, J. P. Garrahan, and **D. J. Luitz**  
