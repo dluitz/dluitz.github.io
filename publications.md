@@ -10,7 +10,12 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2022
 ----
 
-+ Maurits S. J. Tepaske, Dominik Hahn, **D. J. Luitz**  
++ Z. Wang, **D. J. Luitz**, I. Sodemann Villadiego  
+*"Quantum Monte Carlo at the Graphene Quantum Hall Edge"*  
+[arXiv:2206.04598](https://arxiv.org/abs/2206.04598){:class='arxiv'}  
+
+
++ M. S. J. Tepaske, D. Hahn, **D. J. Luitz**  
 *"Optimal compression of quantum many-body time evolution operators into brickwall circuits"*   
 [arXiv:2205.03445](https://arxiv.org/abs/2205.03445){:class='arxiv'}  
 
