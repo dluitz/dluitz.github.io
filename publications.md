@@ -10,6 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2022
 ----
 
++ D. Hahn, M. Dupont, M. Schmitt, **D. J. Luitz**, M. Bukov   
+*"Verification of the Quantum Jarzynski Equality on Digital Quantum Computers"*        
+[arXiv:2207.14313](https://arxiv.org/abs/2207.14313){:class='arxiv'}  
+
+
 + Z. Wang, **D. J. Luitz**, I. Sodemann Villadiego  
 *"Quantum Monte Carlo at the Graphene Quantum Hall Edge"*  
 [arXiv:2206.04598](https://arxiv.org/abs/2206.04598){:class='arxiv'}  
@@ -23,6 +28,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 *"Symmetry protected exceptional points of interacting fermions"*  
 [arXiv:2204.05340](https://arxiv.org/abs/2204.05340){:class='arxiv'}  
 
+
++ M. Weber, **D. J. Luitz**, and F. F. Assaad  
+*"Dissipation-induced order: the S=1/2 quantum spin chain coupled to an ohmic bath"*  
+[*Phys. Rev. Lett.* **129**, 056402 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.056402){:class='pub'}   
+[arXiv:2112.02124](https://arxiv.org/abs/2112.02124){:class='arxiv'}  
 
 
 + L. Colmenarez, **D. J. Luitz**, I. M. Khaymovich, and G. De Tomasi   
@@ -46,12 +56,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2021  
 ----  
-
-+ M. Weber, **D. J. Luitz**, and F. F. Assaad  
-*"Dissipation-induced order: the S=1/2 quantum spin chain coupled to an ohmic bath"*  
-[arXiv:2112.02124](https://arxiv.org/abs/2112.02124){:class='arxiv'}  
-
-
 
 
 + I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
