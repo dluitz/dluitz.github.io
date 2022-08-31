@@ -29,10 +29,16 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 [arXiv:2204.05340](https://arxiv.org/abs/2204.05340){:class='arxiv'}  
 
 
++ I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
+*"Magnetization process and ordering of the S=1/2 pyrochlore magnet in a field"*   
+[*Phys. Rev. B* **106**, L060411 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060411){:class='pub'}, [arXiv:2106.09722](https://arxiv.org/abs/2106.09722){:class='arxiv'}   
+[Letter]
+
+
+
 + M. Weber, **D. J. Luitz**, and F. F. Assaad  
 *"Dissipation-induced order: the S=1/2 quantum spin chain coupled to an ohmic bath"*  
-[*Phys. Rev. Lett.* **129**, 056402 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.056402){:class='pub'}   
-[arXiv:2112.02124](https://arxiv.org/abs/2112.02124){:class='arxiv'}  
+[*Phys. Rev. Lett.* **129**, 056402 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.056402){:class='pub'}, [arXiv:2112.02124](https://arxiv.org/abs/2112.02124){:class='arxiv'}  
 
 
 + L. Colmenarez, **D. J. Luitz**, I. M. Khaymovich, and G. De Tomasi   
@@ -56,11 +62,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2021  
 ----  
-
-
-+ I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
-*"Magnetization process and ordering of the S=1/2 pyrochlore magnet in a field"*   
-[arXiv:2106.09722](https://arxiv.org/abs/2106.09722){:class='arxiv'}  
 
 
 + D. Hahn, P. A. McClarty, and **D. J. Luitz**  
