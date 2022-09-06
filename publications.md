@@ -26,7 +26,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + R. Schäfer, J. C. Budich, **D. J. Luitz**  
 *"Symmetry protected exceptional points of interacting fermions"*  
-[arXiv:2204.05340](https://arxiv.org/abs/2204.05340){:class='arxiv'}  
+[*Phys. Rev. Research* **4**, 033181 (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033181){:class='pub'}, [arXiv:2204.05340](https://arxiv.org/abs/2204.05340){:class='arxiv'}  
 
 
 + I. Hagymási, R. Schäfer, R. Moessner, and **D. J. Luitz**  
