@@ -10,6 +10,11 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2022
 ----
 
++ D. Opherden, M. S. J. Tepaske, F. Bärtl, M. Weber, M. M. Turnbull, T. Lancaster, S. J. Blundell, M. Baenitz, J. Wosnitza, C. P. Landee, R. Moessner, **D. J. Luitz**, H. Kühne  
+"Field-tunable Berezinskii-Kosterlitz-Thouless correlations in a Heisenberg magnet"  
+[arXiv:2209.11085](https://arxiv.org/abs/2209.11085){:class='arxiv'}  
+
+
 + D. Hahn, M. Dupont, M. Schmitt, **D. J. Luitz**, M. Bukov   
 *"Verification of the Quantum Jarzynski Equality on Digital Quantum Computers"*        
 [arXiv:2207.14313](https://arxiv.org/abs/2207.14313){:class='arxiv'}  
