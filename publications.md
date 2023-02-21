@@ -30,7 +30,7 @@ Accepted in PRL
 
 + Z. Wang, **D. J. Luitz**, I. Sodemann Villadiego  
 *"Quantum Monte Carlo at the Graphene Quantum Hall Edge"*  
-[arXiv:2206.04598](https://arxiv.org/abs/2206.04598){:class='arxiv'}  
+[*Phys. Rev. B* **106**, 125150 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.125150){:class='pub'}, [arXiv:2206.04598](https://arxiv.org/abs/2206.04598){:class='arxiv'}  
 
 
 + M. S. J. Tepaske, D. Hahn, **D. J. Luitz**  
