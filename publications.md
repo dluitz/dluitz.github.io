@@ -7,12 +7,20 @@ Preprints of all my articles are also listed on my [author's profile](http://arx
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 
+2023
+----
+
++ M. S. J. Tepaske, **D. J. Luitz**  
+"Compressed quantum error mitigation"  
+[arXiv:2302.05457](https://arxiv.org/abs/2302.05457){:class='arxiv'}  
+
 2022
 ----
 
 + D. Opherden, M. S. J. Tepaske, F. Bärtl, M. Weber, M. M. Turnbull, T. Lancaster, S. J. Blundell, M. Baenitz, J. Wosnitza, C. P. Landee, R. Moessner, **D. J. Luitz**, H. Kühne  
 "Field-tunable Berezinskii-Kosterlitz-Thouless correlations in a Heisenberg magnet"  
-[arXiv:2209.11085](https://arxiv.org/abs/2209.11085){:class='arxiv'}  
+[arXiv:2209.11085](https://arxiv.org/abs/2209.11085){:class='arxiv'}    
+Accepted in PRL
 
 
 + D. Hahn, M. Dupont, M. Schmitt, **D. J. Luitz**, M. Bukov   
