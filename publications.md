@@ -10,6 +10,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2023
 ----
 
++ N. D. Hartmann, J. L. Li and **D. J. Luitz**  
+"Fate of dissipative hierarchy of timescales in the presence of unitary dynamics"   
+[arXiv:2304.09017](https://arxiv.org/abs/2304.09017){:class='arxiv'}
+
 + M. S. J. Tepaske, **D. J. Luitz**  
 "Compressed quantum error mitigation"  
 [arXiv:2302.05457](https://arxiv.org/abs/2302.05457){:class='arxiv'}  
