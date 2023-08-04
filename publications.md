@@ -23,13 +23,17 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 "Compressed quantum error mitigation"  
 [arXiv:2302.05457](https://arxiv.org/abs/2302.05457){:class='arxiv'}  
 
-2022
-----
-
 + D. Opherden, M. S. J. Tepaske, F. Bärtl, M. Weber, M. M. Turnbull, T. Lancaster, S. J. Blundell, M. Baenitz, J. Wosnitza, C. P. Landee, R. Moessner, **D. J. Luitz**, H. Kühne  
 "Field-tunable Berezinskii-Kosterlitz-Thouless correlations in a Heisenberg magnet"  
-[arXiv:2209.11085](https://arxiv.org/abs/2209.11085){:class='arxiv'}    
-Accepted in PRL
+[*Phys. Rev. Lett.* **130**, 086704 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.086704){:class='pub'}, [arXiv:2209.11085](https://arxiv.org/abs/2209.11085){:class='arxiv'}    
+
++ M. S. J. Tepaske, D. Hahn, **D. J. Luitz**  
+*"Optimal compression of quantum many-body time evolution operators into brickwall circuits"*   
+[*SciPost Phys.* **14**, 073 (2023)](https://scipost.org/10.21468/SciPostPhys.14.4.073){:class='pub'}, [arXiv:2205.03445](https://arxiv.org/abs/2205.03445){:class='arxiv'}  
+
+
+2022
+----
 
 
 + D. Hahn, M. Dupont, M. Schmitt, **D. J. Luitz**, M. Bukov   
@@ -42,9 +46,6 @@ Accepted in PRL
 [*Phys. Rev. B* **106**, 125150 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.125150){:class='pub'}, [arXiv:2206.04598](https://arxiv.org/abs/2206.04598){:class='arxiv'}  
 
 
-+ M. S. J. Tepaske, D. Hahn, **D. J. Luitz**  
-*"Optimal compression of quantum many-body time evolution operators into brickwall circuits"*   
-[arXiv:2205.03445](https://arxiv.org/abs/2205.03445){:class='arxiv'}  
 
 + R. Schäfer, J. C. Budich, **D. J. Luitz**  
 *"Symmetry protected exceptional points of interacting fermions"*  
