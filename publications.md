@@ -10,6 +10,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2023
 ----
 
++ K. Haderlein, **D. J. Luitz**, C. Kollath, A. Sheikhan,  
+"Level statistics of the one-dimensional dimerized Hubbard model"  
+[arXiv:2309.07116](https://arxiv.org/abs/2309.07116){:class='arxiv'}  
+
 + L. Colmenarez, **D. J. Luitz** and W. De Roeck,  
 "Ergodic inclusions in many body localized systems"  
 [arXiv:2308.01350](https://arxiv.org/abs/2308.01350){:class='arxiv'}  
