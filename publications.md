@@ -6,33 +6,42 @@ title: Publications
 Preprints of all my articles are also listed on my [author's profile](http://arxiv.org/a/luitz_d_1) on arxiv.org. You can also find them on [ADS](https://ui.adsabs.harvard.edu/#search/q=%22Luitz%2C+David+J%22&sort=citation_count+desc) or [google scholar](https://scholar.google.com/citations?user=8CCqRZYAAAAJ&hl=en&oi=ao).   
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
+2024
+----
+
++ K. Haderlein, **D. J. Luitz**, C. Kollath, A. Sheikhan,  
+*"Level statistics of the one-dimensional dimerized Hubbard model"*  
+[*J. Stat. Mech.* (2024) 073101](https://iopscience.iop.org/article/10.1088/1742-5468/ad5270){:class='pub'},
+[arXiv:2309.07116](https://arxiv.org/abs/2309.07116){:class='arxiv'}  
+
+
++ M. S. J. Tepaske, **D. J. Luitz** and D. Hahn,  
+*"Optimal compression of constrained quantum time evolution"*,  
+[*Phys. Rev. B* **109**, 205134 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.205134){:class='pub'}, [arXiv:2311.06347](https://arxiv.org/abs/2311.06347){:class='arxiv'}
+
 
 2023
 ----
 
 + D. Hahn, **D. J. Luitz**, J. T. Chalker,  
-  "The statistical properties of eigenstates in chaotic many-body quantum systems"  
-  [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}  
-
-+ K. Haderlein, **D. J. Luitz**, C. Kollath, A. Sheikhan,  
-"Level statistics of the one-dimensional dimerized Hubbard model"  
-[arXiv:2309.07116](https://arxiv.org/abs/2309.07116){:class='arxiv'}  
+  *"The statistical properties of eigenstates in chaotic many-body quantum systems"*  
+  [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}, accepted in Phys. Rev. X
 
 + L. Colmenarez, **D. J. Luitz** and W. De Roeck,  
-"Ergodic inclusions in many body localized systems"  
+*"Ergodic inclusions in many body localized systems"*  
 [arXiv:2308.01350](https://arxiv.org/abs/2308.01350){:class='arxiv'}  
 
 
 + N. D. Hartmann, J. L. Li and **D. J. Luitz**  
-"Fate of dissipative hierarchy of timescales in the presence of unitary dynamics"   
+*"Fate of dissipative hierarchy of timescales in the presence of unitary dynamics"*   
 [arXiv:2304.09017](https://arxiv.org/abs/2304.09017){:class='arxiv'}
 
 + M. S. J. Tepaske, **D. J. Luitz**  
-"Compressed quantum error mitigation"  
+*"Compressed quantum error mitigation"*  
 [arXiv:2302.05457](https://arxiv.org/abs/2302.05457){:class='arxiv'}  
 
 + D. Opherden, M. S. J. Tepaske, F. Bärtl, M. Weber, M. M. Turnbull, T. Lancaster, S. J. Blundell, M. Baenitz, J. Wosnitza, C. P. Landee, R. Moessner, **D. J. Luitz**, H. Kühne  
-"Field-tunable Berezinskii-Kosterlitz-Thouless correlations in a Heisenberg magnet"  
+*"Field-tunable Berezinskii-Kosterlitz-Thouless correlations in a Heisenberg magnet"*  
 [*Phys. Rev. Lett.* **130**, 086704 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.086704){:class='pub'}, [arXiv:2209.11085](https://arxiv.org/abs/2209.11085){:class='arxiv'}    
 
 + M. S. J. Tepaske, D. Hahn, **D. J. Luitz**  
