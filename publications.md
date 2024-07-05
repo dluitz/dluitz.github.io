@@ -14,10 +14,18 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 [*J. Stat. Mech.* (2024) 073101](https://iopscience.iop.org/article/10.1088/1742-5468/ad5270){:class='pub'},
 [arXiv:2309.07116](https://arxiv.org/abs/2309.07116){:class='arxiv'}  
 
-
 + M. S. J. Tepaske, **D. J. Luitz** and D. Hahn,  
 *"Optimal compression of constrained quantum time evolution"*,  
 [*Phys. Rev. B* **109**, 205134 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.205134){:class='pub'}, [arXiv:2311.06347](https://arxiv.org/abs/2311.06347){:class='arxiv'}
+
++ L. Colmenarez, **D. J. Luitz** and W. De Roeck,  
+*"Ergodic inclusions in many body localized systems"*  
+[*Phys. Rev. B* **109**, L081117 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.L081117){:class='pub'}, 
+[arXiv:2308.01350](https://arxiv.org/abs/2308.01350){:class='arxiv'}  
+
++ N. D. Hartmann, J. L. Li and **D. J. Luitz**  
+*"Fate of dissipative hierarchy of timescales in the presence of unitary dynamics"*   
+[*Phys. Rev. B* **109**, 054203 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.054203){:class='pub'}, [arXiv:2304.09017](https://arxiv.org/abs/2304.09017){:class='arxiv'}
 
 
 2023
@@ -27,18 +35,9 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
   *"The statistical properties of eigenstates in chaotic many-body quantum systems"*  
   [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}, accepted in Phys. Rev. X
 
-+ L. Colmenarez, **D. J. Luitz** and W. De Roeck,  
-*"Ergodic inclusions in many body localized systems"*  
-[arXiv:2308.01350](https://arxiv.org/abs/2308.01350){:class='arxiv'}  
-
-
-+ N. D. Hartmann, J. L. Li and **D. J. Luitz**  
-*"Fate of dissipative hierarchy of timescales in the presence of unitary dynamics"*   
-[arXiv:2304.09017](https://arxiv.org/abs/2304.09017){:class='arxiv'}
-
 + M. S. J. Tepaske, **D. J. Luitz**  
 *"Compressed quantum error mitigation"*  
-[arXiv:2302.05457](https://arxiv.org/abs/2302.05457){:class='arxiv'}  
+[*Phys. Rev. B* **107**, L201114 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L201114){:class='pub'}, [arXiv:2302.05457](https://arxiv.org/abs/2302.05457){:class='arxiv'}  
 
 + D. Opherden, M. S. J. Tepaske, F. Bärtl, M. Weber, M. M. Turnbull, T. Lancaster, S. J. Blundell, M. Baenitz, J. Wosnitza, C. P. Landee, R. Moessner, **D. J. Luitz**, H. Kühne  
 *"Field-tunable Berezinskii-Kosterlitz-Thouless correlations in a Heisenberg magnet"*  
