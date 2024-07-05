@@ -35,6 +35,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
   *"The statistical properties of eigenstates in chaotic many-body quantum systems"*  
   [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}, accepted in Phys. Rev. X
 
++ D. Hahn, M. Dupont, M. Schmitt, **D. J. Luitz**, M. Bukov   
+*"Quantum Many-Body Jarzynski Equality and Dissipative Noise on a Digital Quantum Computer"*        
+[*Phys. Rev. X* **13**, 041023 (2023)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041023){:class='pub'}, [arXiv:2207.14313](https://arxiv.org/abs/2207.14313){:class='arxiv'}  
+
 + M. S. J. Tepaske, **D. J. Luitz**  
 *"Compressed quantum error mitigation"*  
 [*Phys. Rev. B* **107**, L201114 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L201114){:class='pub'}, [arXiv:2302.05457](https://arxiv.org/abs/2302.05457){:class='arxiv'}  
@@ -50,11 +54,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2022
 ----
-
-
-+ D. Hahn, M. Dupont, M. Schmitt, **D. J. Luitz**, M. Bukov   
-*"Verification of the Quantum Jarzynski Equality on Digital Quantum Computers"*        
-[arXiv:2207.14313](https://arxiv.org/abs/2207.14313){:class='arxiv'}  
 
 
 + Z. Wang, **D. J. Luitz**, I. Sodemann Villadiego  
