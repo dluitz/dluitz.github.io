@@ -9,6 +9,10 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2024
 ----
 
++ R. Schäfer and **D. J. Luitz**,  
+*"DanceQ: High-performance library for number conserving bases"*  
+[arXiv:2407.14591](https://arxiv.org/abs/2407.14591){:class='arxiv'}, source code available here: [https://gitlab.com/DanceQ/danceq](https://gitlab.com/DanceQ/danceq), data repository here: [https://zenodo.org/records/12798598](https://zenodo.org/records/12798598) (DOI: 10.5281/zenodo.12798598) 
+
 + K. Haderlein, **D. J. Luitz**, C. Kollath, A. Sheikhan,  
 *"Level statistics of the one-dimensional dimerized Hubbard model"*  
 [*J. Stat. Mech.* (2024) 073101](https://iopscience.iop.org/article/10.1088/1742-5468/ad5270){:class='pub'},
