@@ -19,7 +19,7 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 + D. Hahn, **D. J. Luitz**, J. T. Chalker,  
   *"Eigenstate Correlations, the Eigenstate Thermalization Hypothesis, and Quantum Information Dynamics in Chaotic Many-Body Quantum Systems"*  
-  [*Phys. Rev. X*, **14**, 031029 (2024)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.031029){:class='pub'}, [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}, accepted in Phys. Rev. X
+  [*Phys. Rev. X*, **14**, 031029 (2024)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.031029){:class='pub'}, [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}
 
 
 + K. Haderlein, **D. J. Luitz**, C. Kollath, A. Sheikhan,  
