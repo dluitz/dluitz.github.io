@@ -9,9 +9,18 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2024
 ----
 
++ K. Baweja, **D. J. Luitz** and Samuel J. Garratt,  
+*"Post-measurement Quantum Monte Carlo"*  
+[arXiv:2410.13844](https://arxiv.org/abs/2410.13844){:class='arxiv'}  
+
 + R. Schäfer and **D. J. Luitz**,  
 *"DanceQ: High-performance library for number conserving bases"*  
 [arXiv:2407.14591](https://arxiv.org/abs/2407.14591){:class='arxiv'}, source code available here: [https://gitlab.com/DanceQ/danceq](https://gitlab.com/DanceQ/danceq), data repository here: [https://zenodo.org/records/12798598](https://zenodo.org/records/12798598) (DOI: 10.5281/zenodo.12798598) 
+
++ D. Hahn, **D. J. Luitz**, J. T. Chalker,  
+  *"Eigenstate Correlations, the Eigenstate Thermalization Hypothesis, and Quantum Information Dynamics in Chaotic Many-Body Quantum Systems"*  
+  [*Phys. Rev. X*, **14**, 031029 (2024)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.031029){:class='pub'}, [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}, accepted in Phys. Rev. X
+
 
 + K. Haderlein, **D. J. Luitz**, C. Kollath, A. Sheikhan,  
 *"Level statistics of the one-dimensional dimerized Hubbard model"*  
@@ -34,11 +43,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
 2023
 ----
-
-+ D. Hahn, **D. J. Luitz**, J. T. Chalker,  
-  *"The statistical properties of eigenstates in chaotic many-body quantum systems"*  
-  [arXiv:2309.12982](https://arxiv.org/abs/2309.12982){:class='arxiv'}, accepted in Phys. Rev. X
-
 + D. Hahn, M. Dupont, M. Schmitt, **D. J. Luitz**, M. Bukov   
 *"Quantum Many-Body Jarzynski Equality and Dissipative Noise on a Digital Quantum Computer"*        
 [*Phys. Rev. X* **13**, 041023 (2023)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041023){:class='pub'}, [arXiv:2207.14313](https://arxiv.org/abs/2207.14313){:class='arxiv'}  
