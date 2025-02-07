@@ -6,6 +6,16 @@ title: Publications
 Preprints of all my articles are also listed on my [author's profile](http://arxiv.org/a/luitz_d_1) on arxiv.org. You can also find them on [ADS](https://ui.adsabs.harvard.edu/#search/q=%22Luitz%2C+David+J%22&sort=citation_count+desc) or [google scholar](https://scholar.google.com/citations?user=8CCqRZYAAAAJ&hl=en&oi=ao).   
 My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 
+2025
+----
+
++ R. Schäfer and **D. J. Luitz**,  
+*"DanceQ: High-performance library for number conserving bases"*  
+[*SciPost Phys. Codebases* 48 (2025)](https://scipost.org/SciPostPhysCodeb.48){:class='pub'},
+[arXiv:2407.14591](https://arxiv.org/abs/2407.14591){:class='arxiv'}, source code available here: [https://gitlab.com/DanceQ/danceq](https://gitlab.com/DanceQ/danceq), data repository here: [https://zenodo.org/records/12798598](https://zenodo.org/records/12798598) (DOI: 10.5281/zenodo.12798598) 
+
+
+
 2024
 ----
 
@@ -13,9 +23,6 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 *"Post-measurement Quantum Monte Carlo"*  
 [arXiv:2410.13844](https://arxiv.org/abs/2410.13844){:class='arxiv'}  
 
-+ R. Schäfer and **D. J. Luitz**,  
-*"DanceQ: High-performance library for number conserving bases"*  
-[arXiv:2407.14591](https://arxiv.org/abs/2407.14591){:class='arxiv'}, source code available here: [https://gitlab.com/DanceQ/danceq](https://gitlab.com/DanceQ/danceq), data repository here: [https://zenodo.org/records/12798598](https://zenodo.org/records/12798598) (DOI: 10.5281/zenodo.12798598) 
 
 + D. Hahn, **D. J. Luitz**, J. T. Chalker,  
   *"Eigenstate Correlations, the Eigenstate Thermalization Hypothesis, and Quantum Information Dynamics in Chaotic Many-Body Quantum Systems"*  
