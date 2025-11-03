@@ -9,6 +9,18 @@ My ORCID is [0000-0003-0099-5696](https://orcid.org/0000-0003-0099-5696).
 2025
 ----
 
++ M. Gisti, **D. J. Luitz**, M. Debertolis  
+  *Symmetry resolved out-of-time-order correlators of Heisenberg spin chains using projected matrix product operators*  
+  [arXiv:2503.20327](https://arxiv.org/abs/2503.20327){:class='arxiv'}
+
++ M. Dînca, **D. J. Luitz**, M. Debertolis  
+  *Quantum process tomography of a compressed time evolution circuit on superconducting quantum processors*  
+  [arXiv:2509.25342](https://arxiv.org/abs/2509.25342){:class='arxiv'}
+
++ K. Baweja, **D. J. Luitz**, S. J. Garratt  
+  *Post-measurement Quantum Monte Carlo*  
+  [arXiv:2410.13844](https://arxiv.org/abs/2410.13844){:class='arxiv'}
+
 + R. Schäfer and **D. J. Luitz**,  
 *"DanceQ: High-performance library for number conserving bases"*  
 [*SciPost Phys. Codebases* 48 (2025)](https://scipost.org/SciPostPhysCodeb.48){:class='pub'},
